@@ -9,5 +9,3 @@ I have completed the SimpliLearn Git course and please find the attach certifica
 ![5211027_Disha](./SimpliLearn_Git_Certificate.png)
 
 
-Basic Commands Practice1
-![5211027_Disha](./Linuxcommands.png)
