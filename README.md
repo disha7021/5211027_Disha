@@ -7,3 +7,7 @@ I have scored 5 out of 5 in Agile for Beginners on Great Learning.
 I have completed the SimpliLearn Git course and please find the attach certificate.
 
 ![5211027_Disha](./SimpliLearn_Git_Certificate.png)
+
+
+Basic Commands Practice1
+![5211027_Disha](./Linuxcommands.png)
