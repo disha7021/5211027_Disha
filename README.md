@@ -10,4 +10,4 @@ I have completed the SimpliLearn Git course and please find the attach certifica
 
 
 I have practiced below attach commands.
-![Linux Commands](./LINUX/linuxcommand)
+![Linux Commands](./LINUX/linuxcommand.png)
