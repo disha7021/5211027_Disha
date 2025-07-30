@@ -16,3 +16,15 @@ I have practiced below attach commands.
 Basic Command practice 2nd screenshot
 
 ![Linux Commands](./LINUX/Command2.png)
+
+Day 2 of practicing the Linux Commands
+![Linux Commands](./LINUX/day2.png)
+
+
+![Linux Commands](./LINUX/linux2.png)
+
+
+![Linux Commands](./LINUX/linux3.png)
+
+
+
