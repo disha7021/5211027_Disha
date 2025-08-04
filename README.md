@@ -29,6 +29,6 @@ Day 2 of practicing the Linux Commands
 
 Solo Learn Certificate - Introduction to C Langugae
 
-![Linux Commands](./Solo_Learn/sololearn_certificate.jpeg)
+![solo Learn](./Solo_Learn/sololearn_certificate.jpeg)
 
 
